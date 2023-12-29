@@ -11,4 +11,4 @@ Create a discussion if you would like feedback prior to creating a pull request.
 
 Stick a fork in the docs and make a pull request.  Typically an issue should be created to explain the intent however this wont be enforced or required.  Pull requests will be reviewed by a manager and approved or edited for accuracy.
 
-Adding a change for testing/learning purpose
+another change
